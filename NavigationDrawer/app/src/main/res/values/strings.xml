@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="name">Muhammad Harun-Or-Roshid</string>
+    <string name="email">md.parvez28@gmail.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent Mail</string>
+    <string name="draft">Draft</string>
+    <string name="starred">Starred</string>
+    <string name="subheader">Subheader</string>
+    <string name="all_mail">All Mail</string>
+    <string name="trash">Trash</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+</resources>

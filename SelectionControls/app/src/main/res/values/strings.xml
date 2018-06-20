@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Selection Controls</string>
+    <string name="switch_light">Switch OFF/ON</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
